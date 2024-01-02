@@ -1,0 +1,4 @@
+[
+  "function WETH() pure returns (address)",
+  "function factory() pure returns (address)"
+]

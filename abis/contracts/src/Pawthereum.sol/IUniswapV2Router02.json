@@ -1,0 +1,10 @@
+[
+  "function WETH() pure returns (address)",
+  "function addLiquidity(address,address,uint256,uint256,uint256,uint256,address,uint256) returns (uint256, uint256, uint256)",
+  "function addLiquidityETH(address,uint256,uint256,uint256,address,uint256) payable returns (uint256, uint256, uint256)",
+  "function factory() pure returns (address)",
+  "function removeLiquidityETHSupportingFeeOnTransferTokens(address,uint256,uint256,uint256,address,uint256) returns (uint256)",
+  "function swapExactETHForTokensSupportingFeeOnTransferTokens(uint256,address[],address,uint256) payable",
+  "function swapExactTokensForETHSupportingFeeOnTransferTokens(uint256,uint256,address[],address,uint256)",
+  "function swapExactTokensForTokensSupportingFeeOnTransferTokens(uint256,uint256,address[],address,uint256)"
+]

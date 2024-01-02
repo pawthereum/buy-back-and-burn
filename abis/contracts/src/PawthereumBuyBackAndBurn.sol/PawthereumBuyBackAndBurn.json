@@ -1,0 +1,13 @@
+[
+  "constructor(address,address,address,address,address)",
+  "function burn() view returns (address)",
+  "function buyBackAndBurn(uint256) payable",
+  "function calculateBuyBackAndBurn(uint256,uint256) view returns (uint256)",
+  "function pancakeswap() view returns (address)",
+  "function pawth() view returns (address)",
+  "function pawthDevMultiSig() view returns (address)",
+  "function rescueEth()",
+  "function rescueToken(address)",
+  "function setMaxSlippage(uint256)",
+  "function weth() view returns (address)"
+]

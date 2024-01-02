@@ -1,0 +1,10 @@
+[
+  "function WETH() pure returns (address)",
+  "function factory() pure returns (address)",
+  "function getAmountIn(uint256,uint256,uint256) pure returns (uint256)",
+  "function getAmountOut(uint256,uint256,uint256) pure returns (uint256)",
+  "function getAmountsIn(uint256,address[]) view returns (uint256[])",
+  "function getAmountsOut(uint256,address[]) view returns (uint256[])",
+  "function quote(uint256,uint256,uint256) pure returns (uint256)",
+  "function swapExactETHForTokens(uint256,address[],address,uint256) payable"
+]
